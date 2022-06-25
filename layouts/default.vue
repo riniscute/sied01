@@ -13,7 +13,7 @@
 const route = useRoute()
 
 useMeta({
-  title: computed(() => `LiwaSite - ${route.meta.title}`)
+  title: computed(() => `救國團經貿營 - ${route.meta.title}`)
 })
 	
 </script>
