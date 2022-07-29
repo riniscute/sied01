@@ -12,7 +12,7 @@ const config: DefaultConfigOptions = {
 				}
 			}
 		}
-	}
+	},
 }
 
 export default config
